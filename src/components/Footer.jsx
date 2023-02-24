@@ -67,7 +67,7 @@ const Footer = () => {
       </div>
       <div className="flex flex-wrap justify-between gap-4 pb-8">
         <div className="">
-          Copyright &#169; <span className="font-bold">Ye Lin Ko</span>.All
+          Copyright &#169; <span className="font-bold">Food-Taste</span>.All
           rights deserved.
         </div>
         <div className="flex gap-2">
